@@ -1,4 +1,4 @@
-# 🏗️ Terraform AWS Infrastructure — DevOps Portfolio Project
+# 🏗️ Terraform AWS Infrastructure — IaC Portfolio Project
 
 ![Terraform](https://img.shields.io/badge/Terraform-≥1.6-7B42BC?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws)
