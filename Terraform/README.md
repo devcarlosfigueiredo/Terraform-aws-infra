@@ -326,5 +326,5 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ---
 
 <p align="center">
-  Feito com ☁️ e 🏗️ por <strong>Seu Nome</strong>
+  Feito com ☁️ e 🏗️ por <strong>José Carlos Carvalho de Figueiredo Muniz</strong>
 </p>
